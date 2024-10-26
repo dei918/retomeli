@@ -1,5 +1,6 @@
 Subir deployment:
 docker-compose up --build -d
+
 Bajar deployment:
 docker-compose down
 
